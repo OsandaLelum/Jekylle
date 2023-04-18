@@ -28,19 +28,19 @@ menu:
 # logo
 logo: "/assets/images/logo.svg"
 # meta data
-author: "Themefisher"
+author: "Osanda Lelum"
 description: "This is meta description"
 # google analitycs ID
 google_analitycs_id: "" # your id
 # contact form action
 contact_form_action: "#" # contact form works with : https://formspree.io
 # copyright
-copyright: "Copyright &copy; 2022 Designed and Developed by [Themefisher](https://themefisher.com)"
+copyright: "Copyright &copy; 2023 Designed and Developed by [OsandaLelum](https://osandalelum.github.io/)"
 
 # preloader
 preloader:
   enable: true
-  preloader: "" # use png, jpg, svg or gif format
+  preloader: "/assets/images/pre.gif" # use png, jpg, svg or gif format
 
 # search
 search:
@@ -50,16 +50,16 @@ search:
 social:
   - name: "facebook"
     icon: "ti-facebook" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://www.facebook.com/osanda.lelum/"
 
   - name: "twitter"
     icon: "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://twitter.com/OsandaLelum"
 
   - name: "github"
     icon: "ti-github" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://github.com/OsandaLelum"
 
   - name: "linkedin"
     icon: "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://www.linkedin.com/in/osanda-lelum/"
